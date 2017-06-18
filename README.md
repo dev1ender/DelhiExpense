@@ -11,3 +11,4 @@
 20 dahi
 30  dahi
 500 sabji and perchune
+500 rakesh
